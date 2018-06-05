@@ -1,0 +1,458 @@
+# Copyright (C) 2016 Apus Findgo
+# This file is distributed under the same license as the Apus Findgo package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Apus Findgo 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/apus-findgo\n"
+"POT-Creation-Date: 2018-05-29 02:37:39+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: inc/class-claim.php:34 inc/class-claim.php:199
+msgid "Claim Listing"
+msgstr ""
+
+#: inc/class-claim.php:61
+msgid "Claim for"
+msgstr ""
+
+#: inc/class-claim.php:107
+msgid "Claim has been submitted."
+msgstr ""
+
+#: inc/class-claim.php:112
+msgid "Can not claim this listing"
+msgstr ""
+
+#: inc/class-claim.php:154
+msgid "Claim Email Templates"
+msgstr ""
+
+#: inc/class-claim.php:159
+msgid "Email Subject For Claimer"
+msgstr ""
+
+#: inc/class-claim.php:160 inc/class-claim.php:166 inc/class-claim.php:173
+#: inc/class-claim.php:179 inc/class-claim.php:186 inc/class-claim.php:192
+msgid "Variables: "
+msgstr ""
+
+#: inc/class-claim.php:165
+msgid "Email Body For Claimer"
+msgstr ""
+
+#: inc/class-claim.php:172
+msgid "Email Subject For Admin"
+msgstr ""
+
+#: inc/class-claim.php:178
+msgid "Email Body For Admin"
+msgstr ""
+
+#: inc/class-claim.php:185
+msgid "Email Subject For Author"
+msgstr ""
+
+#: inc/class-claim.php:191
+msgid "Email Body For Author"
+msgstr ""
+
+#: inc/class-claim.php:204
+msgid "Enbale Claim"
+msgstr ""
+
+#: inc/class-claim.php:210
+msgid "Claim Title"
+msgstr ""
+
+#: inc/class-claim.php:215
+msgid "Banner"
+msgstr ""
+
+#: inc/class-claim.php:216
+msgid "Upload a .jpg or .png image."
+msgstr ""
+
+#: inc/class-claim.php:252
+msgid "Your Claim has been approved"
+msgstr ""
+
+#: inc/class-claim.php:253
+msgid "Congratulation! Your claim has been approved. Details are following"
+msgstr ""
+
+#: inc/class-claim.php:255
+msgid "Listing Title : "
+msgstr ""
+
+#: inc/class-claim.php:257
+msgid "URL : "
+msgstr ""
+
+#: inc/post-types/class-post-type-job_claim.php:31
+#: inc/post-types/class-post-type-job_claim.php:32
+msgid "Claim"
+msgstr ""
+
+#: inc/post-types/class-post-type-job_claim.php:33
+#: inc/post-types/class-post-type-job_claim.php:34
+msgid "Add New Claim"
+msgstr ""
+
+#: inc/post-types/class-post-type-job_claim.php:35
+msgid "Edit Claim"
+msgstr ""
+
+#: inc/post-types/class-post-type-job_claim.php:36
+msgid "New Claim"
+msgstr ""
+
+#: inc/post-types/class-post-type-job_claim.php:37
+#: inc/post-types/class-post-type-job_claim.php:43
+msgid "Claims"
+msgstr ""
+
+#: inc/post-types/class-post-type-job_claim.php:38
+msgid "View Claim"
+msgstr ""
+
+#: inc/post-types/class-post-type-job_claim.php:39
+msgid "Search Claim"
+msgstr ""
+
+#: inc/post-types/class-post-type-job_claim.php:40
+msgid "No Claims found"
+msgstr ""
+
+#: inc/post-types/class-post-type-job_claim.php:41
+msgid "No Claims found in Trash"
+msgstr ""
+
+#: inc/post-types/class-post-type-job_claim.php:65
+msgid "Claim Information"
+msgstr ""
+
+#: inc/post-types/class-post-type-job_claim.php:96
+msgid "Claim For"
+msgstr ""
+
+#: inc/post-types/class-post-type-job_claim.php:102
+#: inc/post-types/class-post-type-job_claim.php:127
+msgid "Status"
+msgstr ""
+
+#: inc/post-types/class-post-type-job_claim.php:106
+msgid "Pending"
+msgstr ""
+
+#: inc/post-types/class-post-type-job_claim.php:107
+#: inc/post-types/class-post-type-job_claim.php:141
+msgid "Approved"
+msgstr ""
+
+#: inc/post-types/class-post-type-job_claim.php:108
+#: inc/post-types/class-post-type-job_claim.php:142
+msgid "Decline"
+msgstr ""
+
+#: inc/post-types/class-post-type-job_claim.php:112
+msgid "Claim Detail"
+msgstr ""
+
+#: inc/post-types/class-post-type-job_claim.php:125
+msgid "Title"
+msgstr ""
+
+#: inc/post-types/class-post-type-job_claim.php:126
+msgid "Author"
+msgstr ""
+
+#: inc/post-types/class-post-type-job_claim.php:128
+msgid "Date"
+msgstr ""
+
+#: inc/post-types/class-post-type-job_claim.php:140
+msgid "pending"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-job-manager-amenities.php:29
+#: inc/taxonomies/class-taxonomy-job-manager-amenities.php:39
+msgid "Amenities"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-job-manager-amenities.php:30
+msgid "Amenity"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-job-manager-amenities.php:31
+msgid "Search Amenities"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-job-manager-amenities.php:32
+msgid "All Amenities"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-job-manager-amenities.php:33
+msgid "Parent Amenity"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-job-manager-amenities.php:34
+msgid "Parent Amenity:"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-job-manager-amenities.php:35
+#: inc/taxonomies/class-taxonomy-job-manager-regions.php:35
+#: inc/taxonomies/class-taxonomy-job-manager-tags.php:45
+msgid "Edit"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-job-manager-amenities.php:36
+#: inc/taxonomies/class-taxonomy-job-manager-regions.php:36
+#: inc/taxonomies/class-taxonomy-job-manager-tags.php:46
+msgid "Update"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-job-manager-amenities.php:37
+#: inc/taxonomies/class-taxonomy-job-manager-regions.php:37
+#: inc/taxonomies/class-taxonomy-job-manager-tags.php:47
+msgid "Add New"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-job-manager-amenities.php:38
+msgid "New Amenity"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-job-manager-amenities.php:46
+msgid "amenity"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-job-manager-amenities.php:62
+#: inc/taxonomies/class-taxonomy-job-manager-categories.php:63
+#: inc/taxonomies/class-taxonomy-job-manager-regions.php:62
+msgid "Image Icon"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-job-manager-amenities.php:69
+#: inc/taxonomies/class-taxonomy-job-manager-categories.php:70
+#: inc/taxonomies/class-taxonomy-job-manager-regions.php:69
+msgid "Add Icon"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-job-manager-amenities.php:74
+#: inc/taxonomies/class-taxonomy-job-manager-categories.php:75
+#: inc/taxonomies/class-taxonomy-job-manager-regions.php:74
+msgid "Font Icon"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-job-manager-amenities.php:75
+#: inc/taxonomies/class-taxonomy-job-manager-categories.php:76
+#: inc/taxonomies/class-taxonomy-job-manager-regions.php:75
+msgid ""
+"You can choose a Font Icon instead using Image Icon. You can using "
+"fontawesome icon: http://fontawesome.io/"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-job-manager-categories.php:25
+msgid "Listing Category"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-job-manager-categories.php:26
+msgid "Listings Categories"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-job-manager-categories.php:33
+msgid "Categories"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-job-manager-categories.php:34
+#: inc/taxonomies/class-taxonomy-job-manager-types.php:32
+msgid "Search %s"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-job-manager-categories.php:35
+#: inc/taxonomies/class-taxonomy-job-manager-types.php:33
+msgid "All %s"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-job-manager-categories.php:36
+#: inc/taxonomies/class-taxonomy-job-manager-types.php:34
+msgid "Parent %s"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-job-manager-categories.php:37
+#: inc/taxonomies/class-taxonomy-job-manager-types.php:35
+msgid "Parent %s:"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-job-manager-categories.php:38
+#: inc/taxonomies/class-taxonomy-job-manager-types.php:36
+msgid "Edit %s"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-job-manager-categories.php:39
+#: inc/taxonomies/class-taxonomy-job-manager-types.php:37
+msgid "Update %s"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-job-manager-categories.php:40
+#: inc/taxonomies/class-taxonomy-job-manager-types.php:38
+msgid "Add New %s"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-job-manager-categories.php:41
+#: inc/taxonomies/class-taxonomy-job-manager-types.php:39
+msgid "New %s Name"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-job-manager-categories.php:45
+msgctxt "Listing category slug - resave permalinks after changing this"
+msgid "listing-category"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-job-manager-regions.php:29
+#: inc/taxonomies/class-taxonomy-job-manager-regions.php:39
+msgid "Regions"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-job-manager-regions.php:30
+msgid "Region"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-job-manager-regions.php:31
+msgid "Search Regions"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-job-manager-regions.php:32
+msgid "All Regions"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-job-manager-regions.php:33
+msgid "Parent Region"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-job-manager-regions.php:34
+msgid "Parent Region:"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-job-manager-regions.php:38
+msgid "New Region"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-job-manager-regions.php:46
+msgid "region"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-job-manager-tags.php:39
+#: inc/taxonomies/class-taxonomy-job-manager-tags.php:49
+msgid "Tags"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-job-manager-tags.php:40
+msgid "Tag"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-job-manager-tags.php:41
+msgid "Search Tags"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-job-manager-tags.php:42
+msgid "All Tags"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-job-manager-tags.php:43
+msgid "Parent Tag"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-job-manager-tags.php:44
+msgid "Parent Tag:"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-job-manager-tags.php:48
+msgid "New Tag"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-job-manager-tags.php:56
+msgid "listing-tag"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-job-manager-tags.php:65
+msgid "Job tags"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-job-manager-tags.php:66
+msgid ""
+"Comma separate tags, such as required skills or technologies, for this job."
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-job-manager-tags.php:69
+msgid "e.g. PHP, Social Media, Management"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-job-manager-tags.php:80
+msgid "Please enter no more than %d tags."
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-job-manager-types.php:24
+msgid "Listing Type"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-job-manager-types.php:25
+msgid "Listings Types"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-job-manager-types.php:31
+msgid "Types"
+msgstr ""
+
+#: inc/taxonomies/class-taxonomy-job-manager-types.php:43
+msgctxt "Listing type slug - resave permalinks after changing this"
+msgid "listing-type"
+msgstr ""
+
+#: templates/claim/claim-form.php:28
+msgid "Fullname"
+msgstr ""
+
+#: templates/claim/claim-form.php:31
+msgid "Phone"
+msgstr ""
+
+#: templates/claim/claim-form.php:34
+msgid "Additional proof to expedite your claim approval..."
+msgstr ""
+
+#: templates/claim/claim-form.php:37
+msgid "Claim This Business"
+msgstr ""
+
+#: templates/claim/claim.php:6
+msgid ""
+"Claim your free business page to have your changes published immediately."
+msgstr ""
+
+#: templates/claim/claim.php:7
+msgid "Claim this business"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Apus Findgo"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://apusthemes.com/apus-findgo/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Apus Findgo is a plugin for Findgo directory listing theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ApusTheme"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://apusthemes.com"
+msgstr ""
